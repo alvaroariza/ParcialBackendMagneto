@@ -51,6 +51,7 @@ Secuencias:
 <h2>DEPLOY</h2>
 Este proyecto fue deployado en Render:
 
+https://parcialbackendmagneto.onrender.com
 
 <h3>ENDPOINTS</h3>
 
